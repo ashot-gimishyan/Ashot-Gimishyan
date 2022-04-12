@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ashot-gimishyan
 - 🐍 I’m currently learning Python.
 - 📊 I’m interested in Discrete mathematics.
-- 💌 You can reach me at gimishyan.aa@phystech.edu
 - 💻 I’m looking to collaborate on real-life projects.
+- 💌 You can reach me at gimishyan.aa@phystech.edu
