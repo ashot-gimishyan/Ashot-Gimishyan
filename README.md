@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ashot-gimishyan
-- 🐍 I’m currently learning Python
-- 📊 I’m interested in Discrete mathematics
+- 📊 I’m interested in Probability and Game Theory
+- 🐍 I’m currently learning Python and Data analysis
 - 💻 I’m looking to collaborate on real-life projects
 - 💌 You can reach me at gimishyan.aa@phystech.edu
