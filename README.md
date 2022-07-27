@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ashot-gimishyan
 - 💻 I’m looking to collaborate on real-life projects
-- 📊 I’m interested in Probability Theory and Statistics
+- 📊 I’m interested in Probability Theory, Statistics and Game Thoery
 - 🐍 I’m currently studying Artificial Intelligence and Data Analytics with Python
 - 👉 You can reach me at gimishyan.aa@phystech.edu or https://t.me/gimishyan
