@@ -24,8 +24,24 @@
 <img src="https://komarev.com/ghpvc/?username=ashot-gimishyan&style=flat-square&color=brightgreen" alt=""/>
 </div>
 
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="300"/>
+</div>
+
+### :man_technologist: About Me
 
 - 👋 Hi, I’m @ashot-gimishyan
 - 💻 I’m looking to collaborate on real-life projects
 - 📊 I’m interested in Probability Theory, Statistics and Game Thoery
 - 🐍 I’m currently studying Artificial Intelligence and Data Analytics with Python
+
+### :hammer_and_wrench: Languages and Tools
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+</div>
