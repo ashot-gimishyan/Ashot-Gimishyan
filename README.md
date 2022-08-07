@@ -6,16 +6,10 @@
   <a href="https://t.me/gimishyan">
     <img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-white?style=for-the-badge&logo=youtube&logoColor=red" alt="Youtube Badge"/>
-  </a>
-  <a href="your-facebook-URL">
+  <a href="https://facebook.com/reimash">
     <img src="https://img.shields.io/badge/Facebook-white?style=for-the-badge&logo=facebook&logoColor=blue" alt="Facebook Badge"/>
   </a>
-   <a href="gimishyan.aa@phystech.edu">
-    <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" alt="VK Badge"/>
-  </a>
-  <a href="your-vkontake-URL">
+  <a href="https://vk.com/ashotgimishyan">
     <img src="https://img.shields.io/badge/VK-white?style=for-the-badge&logo=vk&logoColor=blue" alt="VK Badge"/>
   </a>
 </div>
@@ -23,6 +17,11 @@
 <div id="badges" align="center">
 <img src="https://komarev.com/ghpvc/?username=ashot-gimishyan&style=flat-square&color=brightgreen" alt=""/>
 </div>
+
+<h2 align="center">
+  Hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h2>
 
 ---
 
