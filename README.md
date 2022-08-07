@@ -28,6 +28,7 @@
 - 👋 My name is Ashot Gimishyan.
 - :georgia: I’m a Data Analyst from Georgia.
 - 💻 I’m looking to collaborate on real-life projects.
+- :envelope_with_arrow: You can reach me at gimishyan.aa@phystech.edu.
 - 📊 I’m interested in Probability Theory, Statistics and Game Thoery.
 - 🐍 I’m currently studying Artificial Intelligence and Data Analytics with Python.
 - :zap: In my free time I solve problems on LeetCode, Codewars and read tech articles.
