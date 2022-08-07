@@ -3,12 +3,15 @@
 </div>
 
 <div id="badges" align="center">
+
   <a href="https://t.me/gimishyan">
     <img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
+  
   <a href="https://facebook.com/reimash">
     <img src="https://img.shields.io/badge/Facebook-white?style=for-the-badge&logo=facebook&logoColor=blue" alt="Facebook Badge"/>
   </a>
+  
   <a href="https://vk.com/ashotgimishyan">
     <img src="https://img.shields.io/badge/VK-white?style=for-the-badge&logo=vk&logoColor=blue" alt="VK Badge"/>
   </a>
@@ -21,7 +24,7 @@
   Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h2>
-
+  
 </div>
 
 ### :man_technologist: About Me
