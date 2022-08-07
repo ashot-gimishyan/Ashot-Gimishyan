@@ -12,16 +12,17 @@
   <a href="https://vk.com/ashotgimishyan">
     <img src="https://img.shields.io/badge/VK-white?style=for-the-badge&logo=vk&logoColor=blue" alt="VK Badge"/>
   </a>
-</div>
+  
+  <div id="badges">
+  <img src="https://komarev.com/ghpvc/?username=ashot-gimishyan&style=flat-square&color=brightgreen" alt=""/>
+  </div>
 
-<div id="badges" align="center">
-<img src="https://komarev.com/ghpvc/?username=ashot-gimishyan&style=flat-square&color=brightgreen" alt=""/>
-</div>
-
-<h2 align="center">
+  <h2>
   Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h2>
+  </h2>
+
+</div>
 
 ### :man_technologist: About Me
 
@@ -32,6 +33,8 @@
 - 📊 I’m interested in Probability Theory, Statistics and Game Thoery.
 - 🐍 I’m currently studying Artificial Intelligence and Data Analytics with Python.
 - :zap: In my free time I solve problems on LeetCode, Codewars and read tech articles.
+
+---
 
 ### :hammer_and_wrench: Languages and Tools
 
@@ -61,3 +64,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Vim" alt="Vim" width="40" height="40"/>&nbsp;
 </div>
+
+---
+
+### :fire: My Stats
