@@ -23,16 +23,14 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h2>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="300"/>
-</div>
-
 ### :man_technologist: About Me
 
-- 👋 Hi, I’m @ashot-gimishyan
-- 💻 I’m looking to collaborate on real-life projects
-- 📊 I’m interested in Probability Theory, Statistics and Game Thoery
-- 🐍 I’m currently studying Artificial Intelligence and Data Analytics with Python
+- 👋 My name is Ashot Gimishyan.
+- :georgia: I’m a Data Analyst from Georgia.
+- 💻 I’m looking to collaborate on real-life projects.
+- 📊 I’m interested in Probability Theory, Statistics and Game Thoery.
+- 🐍 I’m currently studying Artificial Intelligence and Data Analytics with Python.
+- :zap: In my free time I solve problems on LeetCode, Codewars and read tech articles.
 
 ### :hammer_and_wrench: Languages and Tools
 
