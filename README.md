@@ -37,6 +37,8 @@
 - 🐍 I’m currently studying Artificial Intelligence and Data Analytics with Python.
 - :zap: In my free time I solve problems on LeetCode, Codewars and read tech articles.
 
+---
+
 ### :hammer_and_wrench: Languages and Tools
 
 <div>
@@ -65,6 +67,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Vim" alt="Vim" width="40" height="40"/>&nbsp;
 </div>
+
+---
 
 ### :fire: My Stats
 
