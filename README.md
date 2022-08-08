@@ -71,3 +71,8 @@
 ---
 
 ### :fire: My Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ashot-gimishyan)](https://git.io/streak-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashot-gimishyan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
