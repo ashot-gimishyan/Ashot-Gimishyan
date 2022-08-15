@@ -4,15 +4,15 @@
 
 <div id="badges" align="center">
 
-  <a href="https://t.me/gimishyan">
+  <a href="https://t.me/">
     <img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   
-  <a href="https://facebook.com/reimash">
+  <a href="https://facebook.com/">
     <img src="https://img.shields.io/badge/Facebook-white?style=for-the-badge&logo=facebook&logoColor=blue" alt="Facebook Badge"/>
   </a>
   
-  <a href="https://vk.com/ashotgimishyan">
+  <a href="https://vk.com/">
     <img src="https://img.shields.io/badge/VK-white?style=for-the-badge&logo=vk&logoColor=blue" alt="VK Badge"/>
   </a>
   
