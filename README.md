@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/Facebook-white?style=for-the-badge&logo=facebook&logoColor=blue" alt="Facebook Badge"/>
   </a>
   
-  <a href="https://vk.com/">
+  <a href="https://vk.com/ashotgimishyan">
     <img src="https://img.shields.io/badge/VK-white?style=for-the-badge&logo=vk&logoColor=blue" alt="VK Badge"/>
   </a>
   
