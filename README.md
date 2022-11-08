@@ -8,11 +8,11 @@
     <img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   
-  <a href="https://facebook.com/">
+  <a href="https://facebook.com/reimash">
     <img src="https://img.shields.io/badge/Facebook-white?style=for-the-badge&logo=facebook&logoColor=blue" alt="Facebook Badge"/>
   </a>
   
-  <a href="https://vk.com/ashotgimishyan">
+  <a href="https://vk.com/reimash">
     <img src="https://img.shields.io/badge/VK-white?style=for-the-badge&logo=vk&logoColor=blue" alt="VK Badge"/>
   </a>
   
