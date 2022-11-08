@@ -8,6 +8,10 @@
     <img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   
+    <a href="https://t.me/gimishyan/">
+    <img src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=telegram&logoColor=white" alt="LiknedIn Badge"/>
+  </a>
+  
   <a href="https://facebook.com/reimash">
     <img src="https://img.shields.io/badge/Facebook-white?style=for-the-badge&logo=facebook&logoColor=blue" alt="Facebook Badge"/>
   </a>
