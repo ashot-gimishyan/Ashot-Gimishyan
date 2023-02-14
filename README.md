@@ -75,6 +75,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" title="Heroku" alt="Heroku" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg" title="SQLAlchemy" alt="SQLAlchemy" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" title="Sklearn" alt="Sklearn" width="40" height="40"/>&nbsp;
   
 </div>
 
