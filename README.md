@@ -34,7 +34,6 @@
 ### :man_technologist: About Me
 
 - 👋 My name is Ashot Gimishyan
-- :man_student: I’m a fourth-year student at MIPT in Russia
 - 📊 I’m interested in Probability Theory and Game Thoery
 - 🐍 I’m currently studying Machine Learning and Data Analysis with Python
 - :zap: In my free time I solve problems on LeetCode, Codewars and read tech articles
