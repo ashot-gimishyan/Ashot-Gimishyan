@@ -4,10 +4,7 @@
 
 <div id="badges" align="center">
   
-  <!-- <a href="https://www.linkedin.com/jobs/">
-    <img src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=blue" alt="LinkedIn Badge"/>
-  </a>
-  
+  <!--
   <a href="https://facebook.com/reimash">
     <img src="https://img.shields.io/badge/Facebook-white?style=for-the-badge&logo=facebook&logoColor=blue" alt="Facebook Badge"/>
   </a>
@@ -15,8 +12,12 @@
   <a href="https://vk.com/reimash">
     <img src="https://img.shields.io/badge/VK-white?style=for-the-badge&logo=vk&logoColor=blue" alt="VK Badge"/>
   </a> -->
+
+  <a href="https://www.linkedin.com/in/ashot-gimishyan">
+    <img src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=blue" alt="LinkedIn Badge"/>
+  </a>
   
-  <a href="https://t.me/gimishyan/">
+  <a href="https://t.me/developer_analyst/">
     <img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=telegram&logoColor=blue" alt="Telegram Badge"/>
   </a>
   
