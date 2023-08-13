@@ -35,11 +35,10 @@
 ### :man_technologist: About Me
 
 - 👋 My name is Ashot Gimishyan
-- 📊 I’m interested in Probability Theory and Game Thoery
 - 🐍 I’m currently studying Machine Learning and Data Analysis with Python
 - :zap: In my free time I solve problems on LeetCode, Codewars and read tech articles
 - 💻 I’m looking to collaborate on real-life projects. You can reach me at gimishyan.aa@phystech.edu
-
+- 📊 I’m interested in Probability theory, Game thoery, Social conflict theory and Artificial intelligence 
 ---
 
 ### :hammer_and_wrench: Languages and Tools
