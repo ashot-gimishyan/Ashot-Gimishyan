@@ -36,7 +36,7 @@
 
 - 🌍 Languages: 🇺🇸 English 🇷🇺 Russian 🇦🇲 Armenian 🇬🇪 Georgian 🇩🇪 German
 - 💻 I’m looking to collaborate on real-life projects. You can reach me at gimishyan.aa@phystech.edu
-- 📊 I’m interested in Python Programming, Finance, Probability theory, Game thoery and Artificial intelligence
+- 📊 I’m interested in Statistics, Python Programming, Finance, Probability Theory, Game Thoery and Artificial Intelligence
   
 ---
 
