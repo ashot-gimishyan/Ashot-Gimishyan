@@ -35,8 +35,9 @@
 ### :man_technologist: About Me
 
 - 🌍 Languages: 🇺🇸 English 🇷🇺 Russian 🇦🇲 Armenian 🇬🇪 Georgian 🇩🇪 German
-- 📊 I’m interested in Finance, Probability theory, Game thoery and Artificial intelligence
 - 💻 I’m looking to collaborate on real-life projects. You can reach me at gimishyan.aa@phystech.edu
+- 📊 I’m interested in Python Programming, Finance, Probability theory, Game thoery and Artificial intelligence
+  
 ---
 
 ### :hammer_and_wrench: Languages and Tools
