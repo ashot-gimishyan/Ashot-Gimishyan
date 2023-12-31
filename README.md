@@ -34,10 +34,13 @@
 
 ### :man_technologist: About Me
 
+- 👦 My name is Ashot Gimishyan
+- 💻 I’m looking to collaborate on IT-projects
+- 📧 You can reach me at gimishyan.aa@phystech.edu
 - 🌍 Languages: 🇺🇸 English 🇷🇺 Russian 🇦🇲 Armenian 🇬🇪 Georgian 🇩🇪 German
-- 💻 I’m looking to collaborate on real-life projects. You can reach me at gimishyan.aa@phystech.edu
-- 📊 I’m interested in Python Programming, Finance, Probability Theory, Game Thoery, Statistics and Artificial Intelligence
-  
+- 📊 I’m interested in Python Programming, System/Business/Data Analysis & Machine Learning
+- 🔎 My research interests include Probability theory, Game theory, Social conflict theory, Negotiation theory
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools
