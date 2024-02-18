@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=blue" alt="LinkedIn Badge"/>
   </a>
   
-  <a href="https://t.me/ag_thoughts/">
+  <a href="https://t.me/reimash_dev/">
     <img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=telegram&logoColor=blue" alt="Telegram Badge"/>
   </a>
   
@@ -37,10 +37,9 @@
 - 👦 My name is Ashot Gimishyan
 - 💻 I’m looking to collaborate on IT-projects
 - 📧 You can reach me at gimishyan.aa@phystech.edu
-- 🌍 Languages: 🇺🇸 English 🇷🇺 Russian 🇦🇲 Armenian 🇬🇪 Georgian 🇩🇪 German
+- 🌍 Languages: 🇷🇺 Russian 🇺🇸 English 🇦🇲 Armenian 🇬🇪 Georgian
+- 🔎 My research interests include Game, Social Conflict and Negotiation theories
 - 📊 I’m interested in Python Programming, System/Business/Data Analysis & Machine Learning
-- 🔎 My research interests include Probability theory, Game theory, Social conflict theory, Negotiation theory
-
 ---
 
 ### :hammer_and_wrench: Languages and Tools
@@ -80,7 +79,13 @@
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/1200px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" title="Excel" alt="Excel" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" title="Sklearn" alt="Sklearn" width="40" height="40"/>&nbsp;
   <img src="https://www.svgrepo.com/show/354428/tableau-icon.svg" title="Tableau" alt="Tableau" width="40" height="40"/>&nbsp;
+  <img src="https://www.drupal.org/files/images/Redmine-Logo-CyberSprocket-Composite-300x300-png8.png" title="Redmine" alt="Redmine" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/greenplum_logo_icon_170052.png" title="Greenplum" alt="Greenplum" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" title="ChatGPT" alt="ChatGPT" width="40" height="40"/>&nbsp;
+  <img src="https://www.svgrepo.com/show/331614/trello-v2.svg" title="Trello" alt="Trello" width="40" height="40"/>&nbsp;
+
 </div>
+
 
 ---
 
