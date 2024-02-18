@@ -83,7 +83,7 @@
   <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/greenplum_logo_icon_170052.png" title="Greenplum" alt="Greenplum" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" title="ChatGPT" alt="ChatGPT" width="40" height="40"/>&nbsp;
   <img src="https://www.svgrepo.com/show/331614/trello-v2.svg" title="Trello" alt="Trello" width="40" height="40"/>&nbsp;
-
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/2048px-Windows_logo_-_2012.svg.png" title="Windows OS" alt="Windows OS" width="35" height="35"/>&nbsp;
 </div>
 
 
