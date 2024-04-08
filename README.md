@@ -39,7 +39,7 @@
 - 📧 You can reach me at gimishyan.aa@phystech.edu
 - 🌍 Languages: 🇷🇺 Russian 🇺🇸 English 🇦🇲 Armenian 🇬🇪 Georgian
 - 🔎 My research interests include Game, Social Conflict and Negotiation theories
-- 📊 I’m interested in Python Programming, System/Business/Data Analysis & Machine Learning
+- 📊 I’m interested in Python, System/Business/Data/Risk Analysis & Machine Learning / AI
 ---
 
 ### :hammer_and_wrench: Languages and Tools
