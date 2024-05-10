@@ -38,8 +38,8 @@
 - 💻 I’m looking to collaborate on IT-projects
 - 📧 You can reach me at gimishyan.aa@phystech.edu
 - 🌍 Languages: 🇺🇸 English 🇷🇺 Russian 🇬🇪 Georgian 🇦🇲 Armenian
-- 🔎 My research interests include Game Theory and Negotiation Theory
-- 📊 I’m interested in System/Business Analysis & Artificial Intelligence
+- 📊 I’m interested in System | Business Analysis & Artificial Intelligence
+- 🔎 My research interests include AI | Finance | Game Theory and Negotiation Theory
 ---
 
 ### :hammer_and_wrench: Languages and Tools
