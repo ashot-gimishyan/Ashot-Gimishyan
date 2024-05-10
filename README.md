@@ -37,9 +37,9 @@
 - 👦 My name is Ashot Gimishyan
 - 💻 I’m looking to collaborate on IT-projects
 - 📧 You can reach me at gimishyan.aa@phystech.edu
-- 🌍 Languages: 🇷🇺 Russian 🇺🇸 English 🇦🇲 Armenian 🇬🇪 Georgian
-- 🔎 My research interests include Game, Social Conflict and Negotiation theories
-- 📊 I’m interested in Python, System/Business/Data/Risk Analysis & Machine Learning / AI
+- 🌍 Languages: 🇺🇸 English 🇷🇺 Russian 🇬🇪 Georgian 🇦🇲 Armenian
+- 🔎 My research interests include Game Theory and Negotiation Theory
+- 📊 I’m interested in System/Business Analysis & Artificial Intelligence
 ---
 
 ### :hammer_and_wrench: Languages and Tools
