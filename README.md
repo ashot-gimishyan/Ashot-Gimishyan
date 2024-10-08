@@ -37,8 +37,8 @@
 - 👦 My name is Ashot Gimishyan
 - 💻 I’m looking to collaborate on IT-projects
 - 📧 You can reach me at gimishyan.aa@phystech.edu
-- 📊 I’m interested in System Analysis & Artificial Intelligence
-- 🌍 Languages: 🇺🇸 English 🇷🇺 Russian 🇬🇪 Georgian 🇦🇲 Armenian 🇩🇪 German
+- 🌍 Languages: 🇺🇸 English 🇷🇺 Russian 🇬🇪 Georgian 🇦🇲 Armenian
+- 📊 I’m interested in System | Business Analysis, Big Data & Machine Learning
 ---
 
 ### :hammer_and_wrench: Languages and Tools
