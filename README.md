@@ -38,7 +38,7 @@
 - 💻 I’m looking to collaborate on IT-projects
 - 📧 You can reach me at gimishyan.aa@phystech.edu
 - 🌍 Languages: 🇺🇸 English 🇷🇺 Russian 🇬🇪 Georgian 🇦🇲 Armenian
-- 📊 I’m interested in System | Business Analysis, FinTech, Big Data & Machine Learning
+- 📊 I’m interested in System | Business Analysis, FinTech & Machine Learning
 ---
 
 ### :hammer_and_wrench: Languages and Tools
